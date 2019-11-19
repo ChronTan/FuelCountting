@@ -1,1 +1,2 @@
-[![Build Status](https://travis-ci.org/ChronTan/FuelCountting.svg?branch=master)](https://travis-ci.org/ChronTan/FuelCountting)
+[![Build Status](https://travis-ci.org/ChronTan/FuelCountting.svg?branch=master)](https://travis-ci.org/ChronTan/FuelCountting) 
+[![codecov](https://codecov.io/gh/ChronTan/FuelCountting/branch/master/graph/badge.svg)](https://codecov.io/gh/ChronTan/FuelCountting)
